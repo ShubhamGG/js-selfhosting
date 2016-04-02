@@ -2,7 +2,7 @@
 Javascript based URL abuse selfhosting. This requires only one 'everything.html' file and the rest of the webpage is hosted in the URL, on the client machine. Credits: xqt2.com
 The everything.html file includes a client-side loader to read, decompress and evaluate the URL.
 
-To make your own page, visit shubhamgg.github.io/js-selfhosting
+To make your own page, visit <a href="http://shubhamgg.github.io/js-selfhosting">shubhamgg.github.io/js-selfhosting</a>
 Then using your browsers web-dev tools (inspect element), edit the code of the page to make your own page (you might want to keep the little script in body that sets the title). After that, call <code>make()</code> in the console to generate your own page.
 
 For more details, visit:
